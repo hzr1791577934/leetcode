@@ -105,3 +105,11 @@ git add
 git commit -m 'ff'
 git fatal
 git push
+git add.
+git add .
+git commit -f "fff"
+git add .
+git commit -m "添加项目"
+git add .
+git commit -m "first commit"
+git push
