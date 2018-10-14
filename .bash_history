@@ -100,3 +100,8 @@ chmod +x hw2.py
 rm p -Rf
 git clone ssh://pysec@202.194.14.33:2302/~pysec/p
 git clone ssh://pysec@202.194.14.33:2302/~pysec/p git clone ssh://pysec@202.194.14.33:2302/~pysec/p
+git add .
+git add 
+git commit -m 'ff'
+git fatal
+git push
