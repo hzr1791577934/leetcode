@@ -113,3 +113,16 @@ git commit -m "添加项目"
 git add .
 git commit -m "first commit"
 git push
+git push
+git clone ssh://pysec@202.194.14.33:2302/~pysec/p
+ git clone git@github.com: ssh://pysec@202.194.14.33:2302/~pysec
+rm p -Rf
+git clone ssh://pysec@202.194.14.33:2302/~pysec/p
+git add .
+git commit -m 'fff'
+git push
+git remote set-url ssh://pysec@202.194.14.33:2302/~pysec
+ git remote set-url ssh://pysec@202.194.14.33:2302
+git romote
+git remote
+git remote origin
