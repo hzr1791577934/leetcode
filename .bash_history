@@ -258,3 +258,218 @@ cd learngit
 git branch
 git branch -d feature1
 git log --graph
+git checkout -b dev
+git add .
+git rm --cached gitkills
+-f
+rm -f gitkills
+cd learngit
+git branch
+git checkout -b dev
+git add .
+git commit -m "devsecond"
+git checkout master
+git merge --no-ff -m "merge with --no-ff" dev
+git log
+cd p
+git remote
+git add readme.txt
+cd 201700301310-huangzengrui/
+git add readme.txt
+git commit -m "git ceshi"
+git push -u origin master
+git pull
+git pull
+yes
+rm -f p
+rm p -Rf
+git pull
+git clone ssh://pysec@202.194.14.33:2302/~pysec/p
+cd p
+cd 201700301310-huangzengrui/
+git add .
+git commit -m "git push"
+git push origin master
+ssh
+pwd
+git pull
+cd  p
+git pull
+pwd
+cd p
+git add .
+git commit -m " CCT201809T1T2commit"
+git push
+pwd
+ls
+git remote add origin git@github.com:hzr1791577934/myleetcode.git
+pwd
+cd myleetcode
+ git remote add origin git@github.com:hzr1791577934/myleetcode.git
+pwd
+git remote add origin git@github.com:hzr1791577934/myleetcode.git
+ls
+https://github.com/hzr1791577934/myleetcode.git
+git remote
+git remote rm origin
+git remote add origin git@github.com:hzr1791577934/myleetcode.git
+git push -u origin master
+git pull
+git push -u origin master
+git branch
+git checkout -b master
+git branch master
+git branch
+git checkout master
+pwd
+git remote
+git push
+git remote add origin git@github.com:hzr1791577934/myleetcode.git
+git rm origin
+git remote rm origin
+pwd
+git branch
+ls
+ git remote add origin git@github.com:hzr1791577934/myleetcode.git
+git push -u origin master
+git pull
+cd ..
+pwd
+cd p
+git remote
+git pull
+cd ..
+cd myleetcode
+ git remote add origin git@github.com:hzr1791577934/myleetcode.git
+git remote rm myleetcode
+git remote rm origin
+ git remote add origin git@github.com:hzr1791577934/myleetcode.git
+git push -u origin master
+git pull
+git branch
+git-pull(1)
+git branch -d dev
+git push
+git push --set-upstream origin master
+git remote add origin1 git@github.com:hzr1791577934/myleetcode.git
+git rempte
+git remote
+git push -u origin1 master
+git remote rm origin1
+git remote
+git fetch origin
+git merge origin/master
+git remote add origin1 git@github.com:hzr1791577934/myleetcode.git
+git merge origin/master
+cd ..
+cd learngit
+git pull
+cd ..
+cd gitkills/
+git pull
+cd ..
+cd myleetcode/
+git origin
+git remote
+git remote rm origin1
+git remote
+git remote add origin git@github.com:hzr1791577934/myleetcode.git
+git remote rm origin
+git remote add origin git@github.com:hzr1791577934/myleetcode.git
+git push -u origin master
+git add .
+git commit -m "first commit"
+git push -u origin master
+git pull ...
+git remote rm origin
+git remote add origin git@github.com:hzr1791577934/myleetcode.git
+git push -u origin master
+git pull ...
+cd ..
+cd p
+git pull ...
+cd ..
+cd learngit/
+git pull ...
+cd ..
+cd myleetcode/
+git remote -v
+cd .. 
+cd p
+git remote -v
+cd ..
+cd myleetcode/
+pwd
+git remote add origin git@github.com:hzr1791577934/leetcode.git
+git remote -v
+pwd
+cd myleetcode/
+git rempte
+git remote
+git remote rm origin
+git remote
+git remote add origin https://github.com/hzr1791577934/leetcode.git
+git push -u origin master
+git pull
+git add .
+git add .
+git commot -m "first commit:two sum"
+ git commot -m "first commit:two sum"
+git commit -m "first commit :two sum"
+git push origin master
+git pull origin master
+dir
+cd ..
+dir
+git pull origin master
+dir
+cd myleetcode/
+git remote
+git remote -v
+git pull
+git remote add origin https://github.com/hzr1791577934/leetcode.git
+git remote rm origin
+git remote add origin https://github.com/hzr1791577934/leetcode.git
+git remote add origin https://github.com/hzr1791577934/leetcode.git
+git add one,cpp
+ls
+git add one.cpp
+git commit -m "first:two sum"
+git branch
+git checkout -b dev
+git add one .cpp
+git add one.cpp
+git commit -m "two sum"
+git push
+git checkout master
+git pusj
+git push
+git push origin master
+git push origin master
+git push origin master
+pwd
+cd p
+git pull
+git pull
+cd p
+git pull
+pwd
+cd ..
+pwd
+mkfifo /tmp/pip-c2s
+mkfifo /tmp/pip-s2c
+chmod 666 /tmp/pip-*
+git clone ssh://pysec@202.194.14.33:2302/~pysec/p
+cd p
+git pull
+git clone ssh://pysec@202.194.14.33:2302/~pysec/p
+git clone ssh://pysec@202.194.14.33:2302/~pysec/p
+git pull
+pwd
+cd p
+git pull
+rm -f p
+cd p
+rm -f
+git clone ssh://pysec@202.194.14.33:2302/~pysec/p
+git clone ssh://pysec@202.194.14.33:2302/~pysec/p
